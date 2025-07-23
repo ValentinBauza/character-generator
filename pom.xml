@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.val</groupId>
-	<artifactId>charactergenerator</artifactId>
+	<artifactId>character-generator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Character Generator</name>
 	<description>Character Generator Backend</description>
