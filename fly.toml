@@ -6,6 +6,9 @@
 app = 'character-generator'
 primary_region = 'fra'
 
+[build]
+  image = 'ghcr.io/valentinbauza/spring-boot-flyio:latest'
+
 [http_service]
   internal_port = 8080
   force_https = true
